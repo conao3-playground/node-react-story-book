@@ -1,9 +1,9 @@
 import { Card } from "./Card";
 
-const meta = () => ({
+const meta = {
   title: "atoms/Card",
   component: Card,
-});
+};
 
 export default meta;
 
